@@ -1,6 +1,6 @@
 # Overview
 
-Work Package 2 (WP2) of the ECHOLOT project focuses on defining the overall architecture and technical specifications of the ECHOLOT system to ensure its seamless integration with the European Collaborative Cloud for Cultural Heritage (ECCCH), Data Space for Cultural Heritage (DS4CH), and other platforms like Europeana and the Wikimedia ecosystem.
+Work Package 2 (**WP2**) of the ECHOLOT project focuses on defining the overall architecture and technical specifications of the ECHOLOT system to ensure its seamless integration with the European Collaborative Cloud for Cultural Heritage (ECCCH), Data Space for Cultural Heritage (DS4CH), and other platforms like Europeana and the Wikimedia ecosystem.
 This repository contains the deliverables, documentation, and technical artifacts produced by WP2, including:
 
 - System requirements and architecture designs.
