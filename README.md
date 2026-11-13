@@ -20,4 +20,5 @@ ECHOLOT operates as an interoperability hub within a complex ecosystem of extern
 The draft deliverable of the system specification is available in this repository and will be continuously updated.
 
 **Connected repositories:**  
+- [echolot-T2.1-requirements](https://github.com/ECHOLOT-ECCCH/echolot-T2.1-requirements)
 - [echolot-T2.3-semantic-interoperability](https://github.com/ECHOLOT-ECCCH/echolot-T2.3-semantic-interoperability)
